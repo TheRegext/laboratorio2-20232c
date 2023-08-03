@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1691073518 source:c:\users\alumnos\desktop\ejercicio clase 03-08\main.cpp
+	<iostream>
+	<cstring>
+	"funciones.h"
+
+1691074199 c:\users\alumnos\desktop\ejercicio clase 03-08\funciones.h
+
