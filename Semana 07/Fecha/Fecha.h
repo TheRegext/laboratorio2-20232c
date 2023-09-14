@@ -3,7 +3,7 @@
 class Fecha
 {
 public:
-  // Fecha(); // se cree con la fecha actual
+  Fecha(); // se cree con la fecha actual
   Fecha(int day, int month, int year);
 
   int getYear() ;

@@ -1,6 +1,6 @@
 #include "Fecha.h"
 #include <ctime>
-/*
+
 Fecha::Fecha()
 {
   time_t tiempo = time(nullptr);
@@ -10,7 +10,7 @@ Fecha::Fecha()
   setMonth(fecha->tm_mon + 1);
   setYear(fecha->tm_year + 1900);
 }
-*/
+
 Fecha::Fecha(int day, int month, int year)
   : _day(0), _month(0), _year(0)
 {
