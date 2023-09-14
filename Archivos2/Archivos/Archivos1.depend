@@ -1,0 +1,76 @@
+# depslib dependency file v1.0
+1693486645 source:c:\users\danie\documents\curso ejemplos c\lab2\2023\31-08\archivos1\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	"funcionesGlobales.h"
+	"clsFecha.h"
+	"clsArticulo.h"
+	"clsCliente.h"
+	"funcionesArticulo.h"
+	"submenuClientes.h"
+
+1693485696 c:\users\danie\documents\curso ejemplos c\lab2\2023\31-08\archivos1\funcionesglobales.h
+
+1693484910 c:\users\danie\documents\curso ejemplos c\lab2\2023\31-08\archivos1\clsfecha.h
+
+1693485722 c:\users\danie\documents\curso ejemplos c\lab2\2023\31-08\archivos1\clsarticulo.h
+
+1693485693 c:\users\danie\documents\curso ejemplos c\lab2\2023\31-08\archivos1\clscliente.h
+
+1693490023 c:\users\danie\documents\curso ejemplos c\lab2\2023\31-08\archivos1\funcionesarticulo.h
+
+1693493600 c:\users\danie\documents\curso ejemplos c\lab2\2023\31-08\archivos1\submenuclientes.h
+
+1694089890 source:c:\users\danie\documents\curso ejemplos c\lab2\2023\7-09\archivos1\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	"funcionesGlobales.h"
+	"clsFecha.h"
+	"clsArticulo.h"
+	"clsCliente.h"
+	"funcionesArticulo.h"
+	"submenuClientes.h"
+	"submenuArticulos.h"
+
+1693485696 c:\users\danie\documents\curso ejemplos c\lab2\2023\7-09\archivos1\funcionesglobales.h
+
+1693484910 c:\users\danie\documents\curso ejemplos c\lab2\2023\7-09\archivos1\clsfecha.h
+
+1694098918 c:\users\danie\documents\curso ejemplos c\lab2\2023\7-09\archivos1\clsarticulo.h
+
+1693485693 c:\users\danie\documents\curso ejemplos c\lab2\2023\7-09\archivos1\clscliente.h
+
+1694089862 c:\users\danie\documents\curso ejemplos c\lab2\2023\7-09\archivos1\funcionesarticulo.h
+
+1693493600 c:\users\danie\documents\curso ejemplos c\lab2\2023\7-09\archivos1\submenuclientes.h
+
+1694099114 c:\users\danie\documents\curso ejemplos c\lab2\2023\7-09\archivos1\submenuarticulos.h
+
+1694694415 source:c:\users\danie\documents\curso ejemplos c\lab2\2023\c2\7-09\archivos1\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	"funcionesGlobales.h"
+	"clsFecha.h"
+	"clsArticulo.h"
+	"clsCliente.h"
+	"funcionesArticulo.h"
+	"submenuClientes.h"
+	"submenuArticulos.h"
+
+1693485696 c:\users\danie\documents\curso ejemplos c\lab2\2023\c2\7-09\archivos1\funcionesglobales.h
+
+1693484910 c:\users\danie\documents\curso ejemplos c\lab2\2023\c2\7-09\archivos1\clsfecha.h
+
+1694694696 c:\users\danie\documents\curso ejemplos c\lab2\2023\c2\7-09\archivos1\clsarticulo.h
+
+1693485693 c:\users\danie\documents\curso ejemplos c\lab2\2023\c2\7-09\archivos1\clscliente.h
+
+1694089862 c:\users\danie\documents\curso ejemplos c\lab2\2023\c2\7-09\archivos1\funcionesarticulo.h
+
+1693493600 c:\users\danie\documents\curso ejemplos c\lab2\2023\c2\7-09\archivos1\submenuclientes.h
+
+1694694080 c:\users\danie\documents\curso ejemplos c\lab2\2023\c2\7-09\archivos1\submenuarticulos.h
+

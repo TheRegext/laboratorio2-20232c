@@ -1,0 +1,13 @@
+BAJA FISICA-> consiste en volver a generar el archivo omitiendo los registros que
+se quieren borrar.
+
+
+- COPIAR EL ARCHIVO COMPLETO EN OTRO ARCHIVO (articulos.dat-> articulos.bak)
+	- system("copy")
+	- Abro para leer el .dat y abro para escribir el .bak
+	- Leo uno del .dat y lo escribo en el .bak, hasta el final de los registros
+
+- COPIAR EN EL .DAT LO QUE QUIERO QUE QUEDE (no van a existir más los registros borrados)
+	- ABRO EL .dat con wb, y abro el archivo .bak con rb.
+	- Leo un registro del .bak, y si corresponde lo escribo en el .dat
+	- Sigo hasta terminar con los registros del .bak 
